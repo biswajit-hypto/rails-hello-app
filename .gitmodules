@@ -1,0 +1,6 @@
+[submodule "payment-operations"]
+	path = payment-operations
+	url = https://github.com/biswajit-hypto/payment-operations.git
+[submodule "rails-hello-infrastructure"]
+	path = rails-hello-infrastructure
+	url = https://github.com/biswajit-hypto/rails-hello-infrastructure.git
